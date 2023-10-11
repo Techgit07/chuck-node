@@ -1,0 +1,4 @@
+{
+    "db_url": "mongodb://localhost:27017/rest",
+    "jwt_token_secret": "rest-backend-key"
+}
